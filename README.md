@@ -6,3 +6,10 @@ Our project consists of the following:
 So how does it work? 
  “Guarded Wayfarer” focuses on two major focal points: the sensor and the alarm.
 As soon as the traffic light is red, the pedestrians’ light automatically turns green.In the meantime, the sensor immediately operates. the alarm goes on if the distance between a car and the pedestrian crossing is less than 50 cm Meanwhile, in case a car runs the red light by almost 50 centimeters further, the alarm goes off.
+
+Team
++Andrina Chamy
++Patricia Hanna
++Georgia Nemri
++Elissa Bou Aoun
++Sara Abou Jamra
